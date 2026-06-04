@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 데이터 파일 (용량 큰 것)
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+*.h5
+
+# 단, data 폴더 내 README는 포함
+!data/README.md
+
+# 환경
+.env
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
