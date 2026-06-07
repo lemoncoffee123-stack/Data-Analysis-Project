@@ -1,0 +1,6 @@
+psycopg2-binary
+sqlalchemy
+pandas
+streamlit
+streamlit-code-editor
+python-dotenv
