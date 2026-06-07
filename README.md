@@ -76,5 +76,5 @@ pip install streamlit sqlalchemy psycopg2-binary python-dotenv  # Project 4 추�
 
 ## 연락처
 
-- GitHub : [github.com/your-username](https://github.com/your-username)
-- Email  : your-email@example.com
+- GitHub : 이종원 — [github.com/lemoncoffee123-stack](https://github.com/lemoncoffee123-stack)
+- Email  : lemoncoffee123@gmail.com
